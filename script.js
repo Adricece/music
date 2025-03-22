@@ -429,6 +429,15 @@ const musicData = {
         "song": "NUEVAYOL TRAP.mp3",
         "cover": "imagenes/nuevayol.jpg"
       }
+    },
+    {
+      "bg": "#262626",
+      "artist": "Travis Scott, Bad bunny, Adricece",
+      "songName": "CAN'T SAY x CARO",
+      "files": {
+        "song": "caro x travis.mp3",
+        "cover": "imagenes/travisbad.jpeg"
+      }
     }
   ]
 };
