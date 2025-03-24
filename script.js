@@ -438,6 +438,15 @@ const musicData = {
         "song": "caro x travis.mp3",
         "cover": "imagenes/travisbad.jpeg"
       }
+    },
+    {
+      "bg": "#ecd3c0",
+      "artist": "Bad Bunny, Arcangel, Adricece",
+      "songName": "P FKN R x LA MuDANZA",
+      "files": {
+        "song": "pfknr_lamudanza.mp3",
+        "cover": "imagenes/pfknr.jpg"
+      }
     }
   ]
 };
