@@ -436,7 +436,7 @@ const musicData = {
       "songName": "CAN'T SAY x CARO",
       "files": {
         "song": "caro x travis.mp3",
-        "cover": "imagenes/travisbad.jpeg"
+        "cover": "imagenes/travisbadbu.jpg"
       }
     },
     {
@@ -446,6 +446,15 @@ const musicData = {
       "files": {
         "song": "pfknr_lamudanza.mp3",
         "cover": "imagenes/pfknr.jpg"
+      }
+    },
+    {
+      "bg": "#121212",
+      "artist": "¥$, JC Reyes, Bad Bunny, Adricece",
+      "songName": "DRUNK x RUGER",
+      "files": {
+        "song": "drunkjc.mp3",
+        "cover": "imagenes/drunkjc.jpg"
       }
     }
   ]
