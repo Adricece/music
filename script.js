@@ -456,6 +456,15 @@ const musicData = {
         "song": "drunkjc.mp3",
         "cover": "imagenes/drunkjc.jpg"
       }
+    },
+    {
+      "bg": "#457f4f",
+      "artist": "Anuel AA, Ñengo Flow, Adricece",
+      "songName": "VIBRADO EM VOCÉ X LOS INTOCABLES",
+      "files": {
+        "song": "anuel brasilero.mp3",
+        "cover": "imagenes/anuel brasilenyo.jpg"
+      }
     }
   ]
 };
